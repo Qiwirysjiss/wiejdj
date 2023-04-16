@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/Qiwirysjiss/qoi-gamehub/main/Qoi%20hub",true))()
